@@ -1,7 +1,7 @@
 ## Ruta "Generica":
 --> http://localhost:3000/api/songs
 
-# Ejemplo de esquema de cancion
+# Ejemplo de esquema de canción:
 
 {
 
